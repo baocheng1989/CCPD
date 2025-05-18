@@ -25,6 +25,7 @@ The training data source are from Kaggle or Github, sample are following, still 
 - <https://www.kaggle.com/datasets/lyhue991/ccpd-sample>
 - <https://github.com/detectRecog/CCPD?tab=readme-ov-file>
 - <https://github.com/SunlifeV/CBLPRD-330k>
+- <https://opendatalab.com/OpenDataLab/CCPD>
 
 The dataset consists of Chinese license plates taken from cameras or CCTV, stored in JPEG format with different angles and resolutions.
 
